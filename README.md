@@ -1,2 +1,2 @@
 # PracticeSRE
-Practice questions while relevant for SRE interview
+Practice questions done while preparing for SRE interview
