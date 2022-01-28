@@ -12,3 +12,5 @@ You have a list of files in dir1 and dir2 you have to check if all the files are
 Open, read, write
 6. String Manipulation- basic
 7. Python program which tells if there is a new user created in linux system.
+8. Write a python script to pull custom metrics  from a Linux instance (memory usage, disk usage, cpu usage)  and submit them into Cloudwatch  (leverage this library for mocking boto3 calls: https://github.com/spulec/moto)
+
